@@ -22,4 +22,4 @@
 - [Trevor](https://github.com/T-Stevan) - My first contribution!
 - [yvonne](https://github.com/kahunyayvonne) - My first contribution!
 - [rita](https://github.com/litole) - My first contribution!
--[Paullette]
+- [Paullette](https://github.com/PaulletteGill) - My first contribution!
